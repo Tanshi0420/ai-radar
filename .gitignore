@@ -1,0 +1,9 @@
+# 依存パッケージ（npm install で再生成できるので管理しない）
+node_modules/
+
+# 秘密情報（APIキーなど）
+.env
+.env.*
+
+# macOS が自動で作るファイル
+.DS_Store
